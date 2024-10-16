@@ -1,0 +1,1 @@
+简单的faster-whisper实现语音识别文件
